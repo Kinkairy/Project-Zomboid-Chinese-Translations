@@ -1,0 +1,10 @@
+{
+  "UI_options_OAC_tickRate": "高亮容器检测频率",
+  "UI_options_OAC_keyBind": "打开或关闭容器的按键",
+  "UI_options_OAC_autoOpen": "自动打开容器",
+  "UI_options_OAC_autoOpen_tooltip": "启用或禁用玩家查看容器时自动将其打开。",
+  "UI_options_OAC_autoClose": "自动关闭容器",
+  "UI_options_OAC_autoClose_tooltip": "启用或禁用容器不再被选中时自动将其关闭。（需要启用“自动打开容器”）",
+  "UI_options_OAC_showContextMenu": "显示“自动关闭”选项",
+  "UI_options_OAC_showContextMenu_tooltip": "在场景右键菜单中显示或隐藏“自动关闭”选项。"
+}

@@ -1,0 +1,9 @@
+{
+    "Tooltip_Isometric": "等角視角",
+    "Tooltip_Muscle": "切換角色是否顯示肌肉",
+    "Tooltip_BodyHairGrowth": "切換角色的體毛與鬍渣是否生長",
+    "Tooltip_RequireRazor": "需要刮鬍刀",
+    "Tooltip_NoBodyHair": "沒有可刮除的體毛",
+    "Tooltip_item_AppearanceChanger": "手持這個 Spiffo 玩偶即可變更外觀。請查看角色資訊面板。",
+    "Tooltip_item_AppearanceUnlocker": "手持這隻熊玩偶即可使用管理員鎖定的外觀選項。"
+}

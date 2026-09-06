@@ -1,0 +1,7 @@
+{
+  "IGUI_SubirEscaleras_Inseguro": "上方沒有可供攀附的地方。",
+  "IGUI_SubirEscaleras_Pierna": "我的腿傷成這樣，沒辦法爬。得先用夾板固定。",
+  "IGUI_SubirEscaleras_Agotado": "我沒有力氣攀爬。",
+  "IGUI_SubirEscaleras_SinNivel": "梯子上方沒有已載入的樓層。",
+  "IGUI_SubirEscaleras_SinSalida": "這座梯子通不到任何可供落腳的地方。必須加高梯子，或在上一層的梯子正上方或旁邊鋪設地板。"
+}

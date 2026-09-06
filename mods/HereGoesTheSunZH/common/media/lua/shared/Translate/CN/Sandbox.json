@@ -1,0 +1,12 @@
+{
+  "Sandbox_HGTS": "Here Goes The Sun",
+  "Sandbox_HereGoesTheSun_EnableGodRays": "启用阳光光束",
+  "Sandbox_HereGoesTheSun_EnableGodRays_Tooltip": "启用后，日出和日落期间会根据太阳的位置在屏幕上渲染阳光光束。",
+  "Sandbox_HereGoesTheSun_EnableStormMood": "启用风暴氛围",
+  "Sandbox_HereGoesTheSun_EnableStormMood_Tooltip": "启用后，风暴可通过平滑过渡营造电影感的去饱和与暗化环境氛围。",
+  "Sandbox_HereGoesTheSun_StormMoodPreset": "风暴去饱和预设",
+  "Sandbox_HereGoesTheSun_StormMoodPreset_Tooltip": "选择风暴去饱和效果的强度：柔和、推荐或《活死人之夜》（黑白）。",
+  "Sandbox_HereGoesTheSun_StormMoodPreset_option1": "柔和",
+  "Sandbox_HereGoesTheSun_StormMoodPreset_option2": "推荐",
+  "Sandbox_HereGoesTheSun_StormMoodPreset_option3": "活死人之夜"
+}

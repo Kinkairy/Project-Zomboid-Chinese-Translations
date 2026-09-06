@@ -1,0 +1,9 @@
+{
+    "Tooltip_Isometric": "等距视角",
+    "Tooltip_Muscle": "切换角色是否显示肌肉",
+    "Tooltip_BodyHairGrowth": "切换角色的体毛和胡茬是否生长",
+    "Tooltip_RequireRazor": "需要剃刀",
+    "Tooltip_NoBodyHair": "没有可剃除的体毛",
+    "Tooltip_item_AppearanceChanger": "手持这个斯皮福玩偶即可更改外观。请查看角色信息面板。",
+    "Tooltip_item_AppearanceUnlocker": "手持这只熊玩偶即可使用管理员锁定的外观选项。"
+}

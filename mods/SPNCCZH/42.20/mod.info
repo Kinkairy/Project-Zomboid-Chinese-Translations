@@ -1,0 +1,7 @@
+name=Spongie's Character Customisation - 繁简汉化
+id=SPNCCZH
+author=Kinkairy
+description=Spongie's Character Customisation 简体与繁體中文汉化。
+modversion=1.0.0
+versionMin=42.20.0
+require=SPNCC

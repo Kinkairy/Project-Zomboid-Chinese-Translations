@@ -1,0 +1,7 @@
+name=Climb Ladders - 繁简汉化
+id=ClimbLaddersZH
+description=适用于 Project Zomboid B42.20 的独立简体与繁体中文汉化，需要先启用原 Mod。
+require=SubirEscaleras
+modversion=1.0.0
+versionMin=42.20.0
+author=Kinkairy

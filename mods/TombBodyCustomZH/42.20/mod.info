@@ -1,0 +1,7 @@
+name=Tomb's Player Body Customisation - 繁简汉化
+id=TombBodyCustomZH
+author=Kinkairy
+description=Tomb's Player Body Customisation 简体与繁體中文汉化。
+modversion=1.0.0
+versionMin=42.20.0
+require=TombBodyCustom
