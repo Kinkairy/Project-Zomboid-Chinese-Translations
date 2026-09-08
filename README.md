@@ -30,11 +30,20 @@ user Zomboid/mods/ directory and enable both the originals and the add-ons.
 ## 范围 / Scope
 
 汉化包只发布 CN/CH 文本；原版英文由原作者维护。本仓库不包含原模组的代码、
-模型、贴图或游戏文件。KI5CN 另包含用于修正旧车钥匙显示名称的兼容代码。
+模型、贴图或游戏文件。KI5CN 0.3.2 另含仅在简繁中文客户端生效的名称兼容代码，
+用于修正本体及当前启用 KI5 车型的既有英文车钥匙名称，并补全 damnlib 三种模具
+的动态物品名称。它不修改原模组文件、物品 ID 或制作数据。
 
 The original mods remain required. Their code, models, textures and game files
-are not redistributed here. KI5CN includes its own display-only compatibility
-code for old vehicle key names.
+are not redistributed here. KI5CN 0.3.2 includes CN/CH client-side compatibility
+for saved English vehicle-key names from the base game and enabled KI5 vehicles,
+plus three dynamic damnlib mold item names. Original-mod files, item IDs and
+crafting data are preserved.
+
+已知问题：damnlib 制作异常分支的气泡文本“What did i expect?”仍为英文。
+
+Known issue: damnlib still hard-codes “What did i expect?” in an exceptional
+crafting speech bubble.
 
 ## 反馈 / Contributing
 

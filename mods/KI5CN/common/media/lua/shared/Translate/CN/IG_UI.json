@@ -1338,5 +1338,10 @@
   "IGUI_VehiclePartSTP85Vent": "通风口",
   "IGUI_VehiclePartSeatChair": "座椅",
   "IGUI_VehiclePartVAN63Tarp": "篷布",
-  "IGUI_VehiclePartairBrake": "空气制动系统"
+  "IGUI_VehiclePartairBrake": "空气制动系统",
+  "IGUI_KI5CN_PlasterMold": "%1 石膏模具",
+  "IGUI_KI5CN_NegativeMold": "%1 阴模",
+  "IGUI_KI5CN_FilledMold": "装有%1的阴模",
+  "IGUI_KI5CN_FailedFilledMold": "失败的填充阴模",
+  "IGUI_VehicleNameLuxuryCarBurnt": "麦西亚·朗 4000"
 }
