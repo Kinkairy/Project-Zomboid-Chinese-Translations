@@ -30,19 +30,15 @@ user Zomboid/mods/ directory and enable both the originals and the add-ons.
 ## 范围 / Scope
 
 汉化包只发布 CN/CH 文本；原版英文由原作者维护。本仓库不包含原模组的代码、
-模型、贴图或游戏文件。KI5CN 0.3.4 另含仅在简繁中文客户端生效的名称兼容代码，
+模型、贴图或游戏文件。KI5CN 0.3.5 另含仅在简繁中文客户端生效的名称兼容代码，
 用于修正本体及当前启用 KI5 车型的既有英文车钥匙名称，并补全 damnlib 三种模具
-的动态物品名称。本版新增 1983 AM General M923、1983 GMC G 系列和 1976
-Chevrolet K 系列扩展车型的简繁文本，并补齐当前启用范围内的沙盒选项。它不修改
+的动态物品名称。本版在既有 M923、G 系列与 Chevrolet K 系列汉化基础上，继续补入 2026-09-17 更新的\nCampers! 新 Airflyte / Astrodome、Chevelle Nomad SS 以及 Containers! v2.00 新集装箱车型。它不修改
 原模组文件、物品 ID、制作数据或车辆生成规则。
 
 The original mods remain required. Their code, models, textures and game files
-are not redistributed here. KI5CN 0.3.4 includes CN/CH client-side compatibility
+are not redistributed here. KI5CN 0.3.5 includes CN/CH client-side compatibility
 for saved English vehicle-key names from the base game and enabled KI5 vehicles,
-plus three dynamic damnlib mold item names. This release adds Simplified and
-Traditional Chinese text for the 1983 AM General M923, 1983 GMC G-Series and
-expanded 1976 Chevrolet K-Series variants, and completes the enabled sandbox
-options. Original-mod files, item IDs, crafting data and vehicle spawn rules are
+plus three dynamic damnlib mold item names. This release also follows the 2026-09-17 KI5 updates by adding CN/CH vehicle names for\nthe new Campers! Airflyte / Astrodome variants, Chevelle Nomad SS and Containers! v2.00\ncontainer variants. Original-mod files, item IDs, crafting data and vehicle spawn rules are
 preserved.
 
 已知问题：damnlib 制作异常分支的气泡文本“What did i expect?”仍为英文。
