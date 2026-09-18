@@ -30,18 +30,18 @@ user Zomboid/mods/ directory and enable both the originals and the add-ons.
 ## 范围 / Scope
 
 汉化包只发布 CN/CH 文本；原版英文由原作者维护。本仓库不包含原模组的代码、
-模型、贴图或游戏文件。KI5CN 0.3.6 另含仅在简繁中文客户端生效的名称兼容代码，
+模型、贴图或游戏文件。KI5CN 0.3.7 另含仅在简繁中文客户端生效的名称兼容代码，
 用于修正本体及当前启用 KI5 车型的既有英文车钥匙名称，并补全 damnlib 三种模具
 的动态物品名称。本版在既有 M923、G 系列与 Chevrolet K 系列汉化基础上，继续补入 2026-09-17 更新的
-Campers! 新 Airflyte / Astrodome、Chevelle Nomad SS 以及 Containers! v2.00 新集装箱车型，并补齐 Shasta 零件/配方、Containers 新车架/配方/生成选项，同时按上游原文校正新旧集装箱车型名称。它不修改
+Campers! 新 Airflyte / Astrodome、Chevelle Nomad SS 以及 Containers! v2.00 新集装箱车型，并补齐 Shasta 零件/配方、Containers 新车架/配方/生成选项，同时按上游原文校正新旧集装箱车型名称。0.3.7 进一步统一全部 B42 新配方 key 与兼容 Recipe_ key 的中文文本，避免同一配方因调用路径不同而显示不同译法。它不修改
 原模组文件、物品 ID、制作数据或车辆生成规则。
 
 The original mods remain required. Their code, models, textures and game files
-are not redistributed here. KI5CN 0.3.6 includes CN/CH client-side compatibility
+are not redistributed here. KI5CN 0.3.7 includes CN/CH client-side compatibility
 for saved English vehicle-key names from the base game and enabled KI5 vehicles,
 plus three dynamic damnlib mold item names. This release also follows the 2026-09-17 KI5 updates by adding CN/CH vehicle names for
 the new Campers! Airflyte / Astrodome variants, Chevelle Nomad SS and Containers! v2.00
-container variants, plus the new Shasta parts/recipes and Containers frame/recipe/spawn-option text. Container labels are also aligned with the current upstream wording. Original-mod files, item IDs, crafting data and vehicle spawn rules are
+container variants, plus the new Shasta parts/recipes and Containers frame/recipe/spawn-option text. Container labels are also aligned with the current upstream wording. Version 0.3.7 also normalizes every paired B42 recipe key and legacy Recipe_ compatibility key to the same CN/CH text, preventing the same recipe from showing different wording through different lookup paths. Original-mod files, item IDs, crafting data and vehicle spawn rules are
 preserved.
 
 已知问题：damnlib 制作异常分支的气泡文本“What did i expect?”仍为英文。
