@@ -1,4 +1,4 @@
-name=Open All Containers - 繁简汉化
+name=Open All Containers - Chinese Translation
 id=OpenAllContainersZH
 description=适用于 Project Zomboid B42.20 的独立简体与繁体中文汉化，需要先启用原 Mod。
 require=OpenAllContainers
