@@ -1,7 +1,7 @@
 name=Tomb's Player Body Customisation - Chinese Translation
 id=TombBodyCustomZH
 author=Kinkairy
-description=Tomb's Player Body Customisation 简体与繁體中文汉化。
+description=Simplified and Traditional Chinese translation for Tomb's Player Body Customisation. Text-only localization; requires the original mod and does not change gameplay or saves. / Tomb's Player Body Customisation 简体与繁体中文汉化；仅提供文本翻译，需要原 Mod，不修改玩法与存档。 / Tomb's Player Body Customisation 簡體與繁體中文漢化；僅提供文字翻譯，需要原 Mod，不修改玩法與存檔。
 modversion=1.0.0
 versionMin=42.20.0
 require=TombBodyCustom

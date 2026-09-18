@@ -1,6 +1,6 @@
 name=Here Goes the Sun - Chinese Translation
 id=HereGoesTheSunZH
-description=适用于 Project Zomboid B42.20 的独立简体与繁体中文汉化，需要先启用原 Mod。
+description=Simplified and Traditional Chinese translation for Here Goes the Sun [B42MP]. Text-only localization; requires the original mod and does not change gameplay or saves. / Here Goes the Sun [B42MP] 简体与繁体中文汉化；仅提供文本翻译，需要原 Mod，不修改玩法与存档。 / Here Goes the Sun [B42MP] 簡體與繁體中文漢化；僅提供文字翻譯，需要原 Mod，不修改玩法與存檔。
 require=HereGoesTheSun
 modversion=1.0.0
 versionMin=42.20.0
