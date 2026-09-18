@@ -1361,5 +1361,13 @@
   "IGUI_VehicleName76chevyK20weldingCamille": "1976年雪佛蘭 K20 Camille 焊接",
   "IGUI_VehicleName76chevyK20yingsWood": "1976年雪佛蘭 K20 Yings 木業",
   "IGUI_VehicleName76chevyK20fossoil": "1976年雪佛蘭 K20 Fossoil",
-  "IGUI_VehicleName76chevyK20kyLumber": "1976年雪佛蘭 K20 KY 木材"
+  "IGUI_VehicleName76chevyK20kyLumber": "1976年雪佛蘭 K20 KY 木材",
+  "IGUI_VehicleNameTrailer61Airflyte": "1961年 Shasta Airflyte 拖車",
+  "IGUI_VehicleNameTrailer61Astrodome": "1961年 Shasta Astrodome 拖車",
+  "IGUI_VehicleName70chevelleWagonSSnomad": "1970年雪佛蘭 Chevelle Nomad SS 旅行車",
+  "IGUI_VehicleNameTrailerISOcontainerM1": "ISO 中型貨櫃 M1",
+  "IGUI_VehicleNameTrailerISOcontainerM2": "ISO 中型貨櫃 M2",
+  "IGUI_VehicleNameTrailerISOcontainerM3tanker": "ISO 中型燃油罐貨櫃",
+  "IGUI_VehicleNameTrailerISOcontainerM4damaged": "ISO 中型損壞貨櫃",
+  "IGUI_VehicleNameTrailerISOcontainerS2": "ISO 小型貨櫃"
 }
