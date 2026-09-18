@@ -32,5 +32,6 @@
   "Sandbox_StreetSweeper_AllowUserAutoDelete_tooltip": "警告：物品和尸体将永久消失。此项极易被用于恶意破坏，因此默认禁用。",
   "Sandbox_StreetSweeper_SpriteWhitelist": "图块名称白名单（用分号分隔）",
   "Sandbox_StreetSweeper_SpriteWhitelist_tooltip": "填写精确图块名称或图块包名前缀；使用 ; 分隔。",
-  "Sandbox_DAMN_AllowCloudSpawns": "启用1979年雪佛兰科迈罗 Cloud 的预设生成"
+  "Sandbox_DAMN_AllowCloudSpawns": "启用1979年雪佛兰科迈罗 Cloud 的预设生成",
+  "Sandbox_DAMN_AllowContainerSpawns": "启用预设 ISO 集装箱生成"
 }

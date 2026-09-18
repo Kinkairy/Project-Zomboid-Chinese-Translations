@@ -3928,5 +3928,14 @@
   "83gmcGseriesVansMakeFrontBumper": "製作1983年GMC G系列廂式貨車 前保險桿",
   "83gmcGseriesVansMakeFrontBullbar": "製作1983年GMC G系列廂式貨車 前防撞槓",
   "83gmcGseriesVansMakeReinforcedFrontBumper": "製作1983年GMC G系列廂式貨車 強化前保險桿",
-  "83gmcGseriesVansMakeRearBumper": "製作1983年GMC G系列廂式貨車 後保險桿"
+  "83gmcGseriesVansMakeRearBumper": "製作1983年GMC G系列廂式貨車 後保險桿",
+  "61shastaCamperMakeDoor": "製作1961年 Shasta 露營車門",
+  "61shastaCamperMakeFrontWindshield": "製作1961年 Shasta 露營車前擋風玻璃",
+  "61shastaCamperMakeLargeSideWindow": "製作1961年 Shasta 露營車大型車窗",
+  "61shastaCamperMakeRearBumper": "製作1961年 Shasta 露營車後保險桿",
+  "61shastaCamperMakeSmallSideWindow": "製作1961年 Shasta 露營車小型車窗",
+  "61shastaCamperMakeToolboxLid": "製作1961年 Shasta 露營車工具箱蓋",
+  "61shastaCamperMakeWings": "製作1961年 Shasta 露營車翼板",
+  "ISOMakeContainerFrameA": "製作集裝箱簡易 A 型車架",
+  "ISOMakeContainerFrameI": "製作集裝箱簡易 I 型車架"
 }

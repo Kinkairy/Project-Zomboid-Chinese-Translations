@@ -2377,5 +2377,14 @@
   "Base.83gmcGseriesVansTrunkDoor2": "1983年GMC G系列厢式货车 后备箱盖",
   "Base.83gmcGseriesVansWindshield2": "1983年GMC G系列厢式货车 前挡风玻璃",
   "Base.83gmcGseriesVansWindshieldArmor": "1983年GMC G系列厢式货车 前挡风玻璃装甲",
-  "Base.83gmcGseriesVansWindshieldRearArmor": "1983年GMC G系列厢式货车 后挡风玻璃装甲"
+  "Base.83gmcGseriesVansWindshieldRearArmor": "1983年GMC G系列厢式货车 后挡风玻璃装甲",
+  "Base.61shastaCamperBumperRear0": "1961年 Shasta 露营车后保险杠",
+  "Base.61shastaCamperDoor2": "1961年 Shasta 露营车门",
+  "Base.61shastaCamperFrontWindshield2": "1961年 Shasta 露营车前挡风玻璃",
+  "Base.61shastaCamperToolboxLid2": "1961年 Shasta 露营车工具箱盖",
+  "Base.61shastaCamperWindowLarge2": "1961年 Shasta 露营车大型车窗",
+  "Base.61shastaCamperWindowSmall2": "1961年 Shasta 露营车小型车窗",
+  "Base.61shastaCamperWings": "1961年 Shasta 露营车翼板",
+  "Base.IsoContainerAframe2": "ISO 集装箱简易 A 型车架",
+  "Base.IsoContainerIframe2": "ISO 集装箱简易 I 型车架"
 }
