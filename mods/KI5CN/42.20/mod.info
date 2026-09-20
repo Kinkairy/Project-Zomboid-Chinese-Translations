@@ -1,5 +1,6 @@
 name=KI5 Vehicle Collection - Chinese Translation
 id=KI5CN
+icon=icon.png
 description=Simplified and Traditional Chinese translation for the KI5 B42 vehicle collection, covering vehicle names, parts, items, recipes, prompts, fluids, sandbox options, and vehicle-key names. / KI5 B42 车辆合集简体与繁体中文汉化，覆盖车辆名称、零件、物品、制作配方、提示、流体、沙盒设置和车钥匙名称。 / KI5 B42 車輛合集簡體與繁體中文漢化，涵蓋車輛名稱、零件、物品、製作配方、提示、流體、沙盒設定和車鑰匙名稱。
 modversion=0.3.7
 versionMin=42.20.0

@@ -1,5 +1,6 @@
 name=Open All Containers - Chinese Translation
 id=OpenAllContainersZH
+icon=icon.png
 description=Simplified and Traditional Chinese translation for Open All Containers [42MP]. Text-only localization; requires the original mod and does not change gameplay or saves. / Open All Containers [42MP] 简体与繁体中文汉化；仅提供文本翻译，需要原 Mod，不修改玩法与存档。 / Open All Containers [42MP] 簡體與繁體中文漢化；僅提供文字翻譯，需要原 Mod，不修改玩法與存檔。
 require=OpenAllContainers
 modversion=1.0.0
