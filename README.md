@@ -66,3 +66,9 @@ Kinkairy 在本公开导出中的原创代码与汉化贡献采用 MIT License�
 Kinkairy's original code and translation contributions in this public export
 are available under the MIT License. Rights in the original game, original mods,
 names and trademarks remain with their respective owners.
+
+## KI5CN 0.3.9
+
+新增1967年雪佛兰 Impala普通版及Baby特别版的简繁汉化，包括零件、物品、配方、生成设置和旧车钥匙名称；保留0.3.8已发布的Golf Mk2、Chevelle及术语修正。
+
+Added Simplified and Traditional Chinese translations for the 1967 Chevrolet Impala and Baby variant, including parts, items, recipes, spawn settings and legacy vehicle-key names. Includes all published 0.3.8 translations.

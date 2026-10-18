@@ -33,5 +33,6 @@
   "Sandbox_StreetSweeper_SpriteWhitelist": "圖塊名稱白名單（用分號分隔）",
   "Sandbox_StreetSweeper_SpriteWhitelist_tooltip": "填寫精確圖塊名稱或圖塊包名前綴；使用 ; 分隔。",
   "Sandbox_DAMN_AllowCloudSpawns": "啓用1979年雪佛蘭科邁羅 Cloud 的預設生成",
-  "Sandbox_DAMN_AllowContainerSpawns": "啟用預設 ISO 貨櫃生成"
+  "Sandbox_DAMN_AllowContainerSpawns": "啓用預設 ISO 集裝箱生成",
+  "Sandbox_DAMN_AllowBabySpawns": "啓用1967年雪佛蘭 Impala Baby 特別版的預設生成"
 }
